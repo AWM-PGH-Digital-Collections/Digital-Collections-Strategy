@@ -1,6 +1,6 @@
 # 2. Experiences and Engagement
 
-Museums create experiences. It is our duty to engage visitors around the objects and scholarship that takes place at The Warhol. We craft our experiences with care so they are intellectually fulfilling, emotionally stimulating and leave visitors wanting more.
+Museums create experiences. It is our duty to engage visitors around the objects and scholarship that takes place at The Warhol. We craft our experiences with care so they are intellectually fulfilling, emotionally stimulating, and leave visitors with a curiosity that will cause them to ask questions and return for answers.
 
 Alongside the compelling experiences offered by The Warhol is the spirit of open engagement around museum collections, exhibitions and programming. Emerging technologies allow the museum to participate in meaningful ways with visitors, whether they are with us in the galleries or online. The museum embraces interaction with visitors and is an active participant in the global dialogue surrounding Warhol and the Warhol ethos.
 
