@@ -1,8 +1,8 @@
 # 2. Experiences and Engagement
 
-Museums deal in the economy of experiences. It is our duty to engage visitors around the objects and scholarship that takes place at The Warhol. We craft our experiences with care so they are intellectually fulfilling, emotionally stimulating and leave visitors craving more.
+Museums create experiences. It is our duty to engage visitors around the objects and scholarship that takes place at The Warhol. We craft our experiences with care so they are intellectually fulfilling, emotionally stimulating and leave visitors wanting more.
 
-Alongside the compelling experiences offered by The Warhol is an ethos of open engagement around museum collections, exhibitions and programming. Emerging technologies allow the museum to participate in meaningful ways with visitors, whether they are with us in the galleries or online. The museum embraces interaction with visitors and is an active participant in the global dialogue surrounding Warhol and the Warhol ethos.
+Alongside the compelling experiences offered by The Warhol is the spirit of open engagement around museum collections, exhibitions and programming. Emerging technologies allow the museum to participate in meaningful ways with visitors, whether they are with us in the galleries or online. The museum embraces interaction with visitors and is an active participant in the global dialogue surrounding Warhol and the Warhol ethos.
 
 ###2.1 On-site
 
@@ -22,7 +22,7 @@ User interfaces must be consistent, elegant and fun to use. Interacting with mus
 
 The digital team strikes a balance between developing internally-supported platforms (websites, blogs, mobile applications, etc.) and managing activity on third-party platforms (social media, email marketing, etc.). Activity on third-party platforms are platform-specific and make use of each platform's unique functionality.
 
-We emphasize community and work to grow the depth of interactions around The Warhol's objects and stories, and work to amplify artistic expression created through the lens of Warhol. 
+We emphasize community and work to grow the depth of interactions around The Warhol's objects and stories, and work to amplify artistic expression created through the lens of Andy Warhol. 
 
 ###2.3 Strategy In Action
 
