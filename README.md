@@ -1,8 +1,8 @@
 # The Andy Warhol Museum
 
-## Digital Strategy: 2015 - 2017
+## Digital Collections Strategy: 2015 - 2020
 
-This is a versioned digital strategy repository for [The Andy Warhol Museum](http://www.warhol.org) in Pittsburgh, PA, USA. The strategy is designed to grow with the museum through technology's rapid evolution and be a living resource the museum can use to navigate the fast-moving and often uncharted waters of the emerging digital landscape.
+This is a versioned digital strategy repository for [The Andy Warhol Museum](http://www.warhol.org) in Pittsburgh, PA, USA. The strategy is designed to grow with the museum through technology's rapid evolution and be a living resource the museum can use to navigate the fast-moving and often uncharted waters of the emerging digital landscape. Initially, this strategy was conceived and written in 2015, and maintained through 2017. As the new Collections Database Admin (2019), I felt it was necessary to fork the original and use it as an initial base to set future goals and policies. This document will reflect the tasks and goals needed to create a healthy digital collection that is shareable, and can be used by other internal AWM groups to make connections and engage with the public. It is always a work in progress.
 
 We are using GitHub to draft and publish this strategy, which makes a catalog of previous versions accessible. In addition, the source files can be easily shared and repurposed within the cultural sector. We intend to revisit and update this strategy regularly as tactics and technologies evolve.
 
@@ -10,15 +10,15 @@ To read the strategy in a browser, [start here](index.md). You can also download
 
 ## Acknowledgements
 
-This digital strategy was authored by Jeffrey Inscho, Manager of Digital Engagement at The Andy Warhol Museum, in close collaboration with:
+This digital strategy was imnitally authored by Jeffrey Inscho, Manager of Digital Engagement at The Andy Warhol Museum, in close collaboration with:
 
-* Eric Shiner, Director, The Andy Warhol Museum
-* Patrick Moore, Managing Director, The Andy Warhol Museum
-* Rachel Baron-Horn, Director of Finance and Operations, The Andy Warhol Museum
+* Patrick Moore, Director, The Andy Warhol Museum
+* Rachel Baron-Horn, Deputy Director, The Andy Warhol Museum
 * Edward Motznik, Vice President of Information Technology, Carnegie Museums of Pittsburgh
-* Jessica Warchall, Assistant Communications Manager, The Andy Warhol Museum
+* Jessica Warchall, Former Assistant Communications Manager, The Andy Warhol Museum
+* Eric Shiner, Former Director, The Andy Warhol Museum
 
-Questions or comments about the digital strategy can be sent to [awm-webmaster@warhol.org](mailto:awm-webmaster@warhol.org).
+Questions or comments about the Digital Collections Strategy can be sent to [womackb@warhol.org](mailto:womackb@warhol.org).
 
 ## License
 
