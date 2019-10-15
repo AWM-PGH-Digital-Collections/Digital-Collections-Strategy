@@ -6,13 +6,13 @@ Digital technologies provide new ways of sharing stories and inviting participat
 
 ###3.1 Transparency
 
-In the digital age, availability of all known information trumps the availability of total or complete information. The Andy Warhol Museum embraces this notion and works to make all known information about the museum and its collection available in standard and useable formats.
+In the digital age, public availability of all known information expected. The Andy Warhol Museum embraces this notion and works to make all known information about the museum and its collection available in standard and useable formats.
 
 Tactics employed for increasing institutional transparency may include the implementation of digital dashboards, a communication strategy highlighting behind-the-scenes activity, or an open call for digital users to provide feedback and information about objects in the museum's collection.
 
 ###3.2 Access
 
-Museums often create their own barriers that prevent users from accessing objects, scholarship and narratives. These barriers to access touch every point along the user/visitor experience journey, from purchasing tickets to viewing collection objects online to participating in a dialogue with museum staff. We must put digital technologies to work in addressing where barriers to access exist and eliminate those barriers wherever possible.
+Museums often create their own barriers that prevent users from accessing objects, scholarship and narratives. These barriers to access touch every point along the user/visitor experience journey, from purchasing tickets to viewing collection objects online to participating in a dialogue with museum staff. We must put digital technologies to work in addressing where barriers to access exist and eliminate those barriers whenever possible.
 
 The Andy Warhol Museum designs the digital experience around accessibility with the goal of making Warhol's legacy easily available for anyone who desires it.
 
@@ -26,11 +26,11 @@ In addition to making use of open source solutions, The Warhol contributes back 
 
 The following are projects initiated or deployed between 2015 and 2017 that exemplify the Narratives and Access strategy outlined above:
 
-* [warhol.org digital metrics dashboard](http://www.warhol.org/digital/metrics) — January 2015
-* [Open sourced digital strategy](https://github.com/thewarholmuseum/digital-strategy) — March 2015
-* [Open sourced the museum's new responsive email template](https://github.com/thewarholmuseum/responsive-email-template) — April 2015
+* warhol.org digital metrics dashboard — January 2015
+* Open sourced digital strategy — March 2015
+* Open sourced the museum's new responsive email template — April 2015
 * [Participation in the National Museum Website Visitor Motivation Survey](http://martyspellerberg.com/2016/02/introduction-of-the-national-museum-website-visitor-motivation-survey/) — November 2015
-* [Tactile reproductions of Andy Warhol artworks](http://blog.warhol.org/museum/designing-an-inclusive-audio-guide-part-2-tactile-reproductions/) — July 2016
+* Tactile reproductions of Andy Warhol artworks — July 2016
 * [Open sourced Out Loud, The Warhol’s inclusive audio guide](https://github.com/CMP-Studio/TheWarholOutLoud) — August 2016
 
 -----
