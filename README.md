@@ -10,7 +10,7 @@ To read the strategy in a browser, [start here](index.md). You can also download
 
 ## Acknowledgements
 
-This digital strategy was initially authored by Jeffrey Inscho, Manager of Digital Engagement at The Andy Warhol Museum, in close collaboration with:
+This digital strategy was initially authored by Jeffrey Inscho, former Manager of Digital Engagement at The Andy Warhol Museum, in close collaboration with:
 
 * Patrick Moore, Director, The Andy Warhol Museum
 * Rachel Baron-Horn, Deputy Director, The Andy Warhol Museum
