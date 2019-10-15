@@ -43,6 +43,13 @@ Strategic thrusts for 2015-2017 include:
 * Organizational Adaptation
 * Financial Solvency
 
+Collection Database goals for 2019-2020 include:
+
+* Placing all the collection data on GitHUb as a shareable CSV file
+* Create a NetX Portal that houses all the TC finding aids and links them to their related objects
+* Film and Video (and audio?) preservation
+* Incorporation of our institutional history documents into the realm of the objects they enhance and describe
+
 -----
 
 [INDEX](index.md) | [Next Section](02_Experiences_and_Engagement.md)
