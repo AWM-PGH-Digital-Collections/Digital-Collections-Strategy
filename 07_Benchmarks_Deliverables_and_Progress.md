@@ -2,7 +2,7 @@
 
 A digital strategy is only beneficial to an organization if the results are measured and evaluated on an ongoing basis. Benchmarking and evaluating our efforts are the keystones toward progress as we work within the framework of this strategy. The museum's digital team meets regularly with senior leadership and departmental stakeholders to determine key performance indicators which help museum staff evaluate tactics and progress.
 
-As an aside to this statement. My role as Collections Database Admin is rather autonomous and does not have any authority over the various disparate departments at our museum. I am clearly more of a facilitator. One of the key goals here is bringing all the deparements under one digital umbrella, meaning that we all know what the overriding goal is and we are working in concert to achieve it. 
+As an aside to this statement. My role as Collections Database Admin is rather autonomous and does not have any authority over the various disparate departments at our museum. I am clearly more of a facilitator. One of the key goals here is bringing all the AWM departments under one digital umbrella, meaning that we all know what the overriding goal is and we are working in concert to achieve it. 
 
 ### 7.1 Key performance indicators (Currently in development)
 
