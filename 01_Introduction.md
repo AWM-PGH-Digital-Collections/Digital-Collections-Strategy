@@ -2,7 +2,7 @@
 
 What does it mean to be a museum in the digital age? How can digital and emerging media help a cultural institution successfully meet its mission? Where does a museum begin on its path toward becoming truly optimized for the evolving digital landscape, and why is it important that museums do so?
 
-The Andy Warhol Museum, like many of our sister institutions, is confronting questions like these with the museum's first formal digital strategy. This document is intended to be a roadmap as the museum works to infuse digital activities into its fabric. From in-gallery interactive projects to the digital literacy of Warhol staff (and all points in between), a structured strategy helps the museum stay focussed on priorities and goals, and it serves as a repository for progress along our journey.
+The Andy Warhol Museum, like many of our sister institutions, is confronting questions like these with the museum's first formal digital strategy. This document is intended to be a roadmap as the museum works to infuse digital activities into its fabric. From in-gallery interactive projects to the digital literacy of Warhol staff (and all points in between), a structured strategy helps the museum stay focused on priorities and goals, and it serves as a repository for progress along our journey.
 
 ### A Real-Time Document
 
