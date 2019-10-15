@@ -26,4 +26,4 @@ The following are projects initiated or deployed between 2015 and 2017 that exem
 
 -----
 
-[HOME](index.md) | [Previous Section](04_Organizational_Adaptation.md) | [Next Section](05_Financial_Solvency.md)
+[HOME](index.md) | [Previous Section](04_Organizational_Adaptation.md) | [Next Section](06_Digital Assert_Management.md)
