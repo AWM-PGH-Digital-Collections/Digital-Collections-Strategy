@@ -1,6 +1,6 @@
 #More than a Museum
 
-## The Warhol: Digital Strategy 2015 - 2017
+## The Warhol: Digital Strategy 2015 - 2020
 
 1. [Introduction](01_Introduction.md)
 	1. Vision Statement
@@ -16,9 +16,12 @@
 	1. New organizational workflows
 	2. Developing internal skill-sets
 	3. Empowering a digital mindset
-5. [Financial Solvency](05_Financial_Solvency.md) 
+5. [Time Based Media](05_Time_Based_Media.md) 
 	1. Philanthropy
 	2. Earned Income
-6. [Benchmarks, Deliverables and Progress](06_Benchmarks_Deliverables_and_Progress.md)
+6. [Digital Asset Management](06_Digital_Asset_Management.md)
+	1. Evaluation Methods
+	2. Key performance indicators
+7. [Benchmarks, Deliverables and Progress](07_Benchmarks_Deliverables_and_Progress.md)
 	1. Evaluation Methods
 	2. Key performance indicators
