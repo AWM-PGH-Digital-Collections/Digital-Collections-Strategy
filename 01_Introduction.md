@@ -43,6 +43,9 @@ Collection Database goals for 2019-2020 include:
 * Create a NetX Portal that houses all the TC finding aids and links them to their related objects
 * Film and Video (and audio?) preservation
 * Incorporation of our institutional history documents into the realm of the objects they enhance and describe
+* Upgrading NetX to version 8.12 then version 9
+* Upgrading TMS to version 2018
+* Securing enough server space in anticipation of future growth and use over the next five years
 
 -----
 
