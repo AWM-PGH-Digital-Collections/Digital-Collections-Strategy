@@ -17,11 +17,12 @@
 	2. Empowering a digital mindset
 	3. New organizational workflows
 5. [Time Based Media](05_Time_Based_Media.md) 
-	1. Preservationa and Storage
+	1. Preservation and Storage
 	2. Access
 6. [Digital Asset Management](06_Digital_Asset_Management.md)
-	1. Evaluation Methods
-	2. Key performance indicators
+	1. The Power of a DAMS
+	2. User Access and the IIIF Viewer
+	3. Making the Case: Why We Need a Curator of Digital Objects
 7. [Benchmarks, Deliverables and Progress](07_Benchmarks_Deliverables_and_Progress.md)
 	1. Evaluation Methods
 	2. Key performance indicators
