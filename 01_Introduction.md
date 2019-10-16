@@ -12,7 +12,7 @@ By structuring our digital strategy as a living document, we have the freedom to
 
 ### An Open-Source Repository
 
-This strategy document is an open-source repository made available under a [Creative Commons Attribution-NonCommercial-ShareAlike license](http://creativecommons.org/licenses/by-nc-sa/4.0/). You can find the source files on [The Andy Warhol Museum's GitHub account](https://github.com/thewarholmuseum/digital-strategy).
+This strategy document is an open-source repository made available under a [Creative Commons Attribution-NonCommercial-ShareAlike license](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 GitHub is traditionally used to host versioned source code that developers can share and collaboratively make better. While it is not code, it is in this spirit that The Andy Warhol Museum makes its digital strategy open. Andy Warhol pioneered the concept of democratization in the art world. His ethos informs our institutional push to develop digital projects in the open and operate transparently.
 
