@@ -13,9 +13,9 @@
 	2. Accessibility
 	3. Open Frameworks
 4. [Organizational Adaptation](04_Organizational_Adaptation.md)
-	1. New organizational workflows
-	2. Developing internal skill-sets
-	3. Empowering a digital mindset
+	1. Developing internal skill-sets
+	2. Empowering a digital mindset
+	3. New organizational workflows
 5. [Time Based Media](05_Time_Based_Media.md) 
 	1. Philanthropy
 	2. Earned Income
