@@ -17,8 +17,8 @@
 	2. Empowering a digital mindset
 	3. New organizational workflows
 5. [Time Based Media](05_Time_Based_Media.md) 
-	1. Philanthropy
-	2. Earned Income
+	1. Preservationa and Storage
+	2. Access
 6. [Digital Asset Management](06_Digital_Asset_Management.md)
 	1. Evaluation Methods
 	2. Key performance indicators
