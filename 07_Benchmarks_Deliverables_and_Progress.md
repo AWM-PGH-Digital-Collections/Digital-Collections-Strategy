@@ -1,8 +1,6 @@
 # 7. Benchmarks, Deliverables and Progress
 
-A digital strategy is only beneficial to an organization if the results are measured and evaluated on an ongoing basis. Benchmarking and evaluating our efforts are the keystones toward progress as we work within the framework of this strategy. The museum's digital team meets regularly with senior leadership and departmental stakeholders to determine key performance indicators which help museum staff evaluate tactics and progress.
-
-As an aside to this statement. My role as Collections Database Admin is rather autonomous and does not have any authority over the various disparate departments at our museum. I am clearly more of a facilitator. One of the key goals here is bringing all the AWM departments under one digital umbrella, meaning that we all know what the overriding goal is and we are working in concert to achieve it. 
+A digital strategy is only beneficial to an organization if the results are measured and evaluated on an ongoing basis. Benchmarking and evaluating our efforts are the keystones toward progress as we work within the framework of this strategy. The museum's Digital Asset Working Group (DAWG) meets regularly to hone in on standards, discuss best practices, and consult with internal partners on how to move forward in the best way possible so we, as a collective group, can realize our institutional vision and goals.
 
 ### 7.1 Key performance indicators (Currently in development)
 
@@ -49,4 +47,4 @@ As an aside to this statement. My role as Collections Database Admin is rather a
 
 -----
 
-[HOME](index.md) | [Previous Section](05_Financial_Solvency.md)
+[HOME](index.md) | [Previous Section](06_Digital_Asset_Management.md)
