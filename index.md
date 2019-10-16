@@ -13,9 +13,9 @@
 	2. Accessibility
 	3. Open Frameworks
 4. [Organizational Adaptation](04_Organizational_Adaptation.md)
-	1. Developing internal skill-sets
-	2. Empowering a digital mindset
-	3. New organizational workflows
+	1. Developing Internal Skill-sets
+	2. Empowering a Digital Mindset
+	3. New Organizational Workflows
 5. [Time Based Media](05_Time_Based_Media.md) 
 	1. Preservation and Storage
 	2. Access
@@ -25,4 +25,4 @@
 	3. Making the Case: Why We Need a Curator of Digital Objects
 7. [Benchmarks, Deliverables and Progress](07_Benchmarks_Deliverables_and_Progress.md)
 	1. Evaluation Methods
-	2. Key performance indicators
+	2. Key Performance Indicators
