@@ -9,6 +9,16 @@
 
 ### 6.3 Making the Case: Why We Need a Curator of Digital Objects
 
+Traditionally, curators are responsible for acquiring material for a collection, preserving these materials for future generations, helping users locate items from the collection and providing contextual information so they can better understand them, and designing exhibits for the benefit and enjoyment of the public. A digital curator will do all of these things, provide oversight and direction, as well as the following:
+
+Make as much of our collection available online as copyright law, professional ethics, and our budget permits.
+ 
+Provide both contextual information and software tools to make our digital collections as useful as possible.
+ 
+Improve methods for preserving and providing access to the "born digital"  materials that are now part of the creative history of most contemporary works of art.
+
+Sources: [NYPL Blog](https://www.nypl.org/blog/2011/04/04/what-digital-curator)
+
 
 ### 6.4 Strategy In Action
 
