@@ -4,6 +4,8 @@
 
 Preserving the films and audio tapes, making them accessible to researchers, creating the right storage environment. Understanding that NetX is not the proper storage place for our digitized films, but can be used to provide short clips.
 
+Do we employ experts to help us: [Bek and Frohnert](https://bekandfrohnert.com/?page_id=72)
+
 ### 5.2 Access
 
 Creating public access to time based media. Copyright concerns. Pirating concerns.
