@@ -24,7 +24,7 @@ In addition to making use of open source solutions, The Warhol contributes back 
 
 ### 3.4 Strategy In Action
 
-The following are projects initiated or deployed between 2015 and 2017 that exemplify the Narratives and Access strategy outlined above:
+The following are projects initiated or deployed between 2015 and 2020 that exemplify the Narratives and Access strategy outlined above:
 
 * warhol.org digital metrics dashboard — January 2015
 * Open sourced digital strategy — March 2015
@@ -32,6 +32,9 @@ The following are projects initiated or deployed between 2015 and 2017 that exem
 * [Participation in the National Museum Website Visitor Motivation Survey](http://martyspellerberg.com/2016/02/introduction-of-the-national-museum-website-visitor-motivation-survey/) — November 2015
 * Tactile reproductions of Andy Warhol artworks — July 2016
 * [Open sourced Out Loud, The Warhol’s inclusive audio guide](https://github.com/CMP-Studio/TheWarholOutLoud) — August 2016
+* [The Collection as a CSV file](https://github.com/AWM-PGH-Digital-Collections/AWMCollectionData) — January 2020
+* NetX upgrade from 8.12 to 9 — 1st Quarter 2020 
+* TMS upgrade from 2016 to 2017 — 2nd Quarter 2020
 
 -----
 
