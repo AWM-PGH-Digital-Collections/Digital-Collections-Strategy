@@ -1,6 +1,6 @@
 # 4. Organizational Adaptation
 
-We are living and working in a time of digital transformation. Emerging platforms and technologies impact nearly all aspects of our day-to-day, and promise new levels of speed and efficiency. If the museum is to thrive in the digital age, it is important that all staff become comfortable and proficient with the new tools and workflows emerging technologies afford.
+We are living and working in a time of digital transformation. Emerging platforms and technologies impact nearly all aspects of our day-to-day lives, and promise new levels of speed and efficiency. If the museum is to thrive in the digital age, it is important that all staff become comfortable and proficient with the new tools and workflows emerging technologies afford.
 
 The world is evolving around us, so why should a museum stand in opposition to this transformation? The Andy Warhol Museum embraces this reality and works toward molding the organization into a museum that adapts quickly with technology and marches confidently into the digital future.
 
