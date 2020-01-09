@@ -26,7 +26,7 @@ We emphasize community and work to grow the depth of interactions around The War
 
 ### 2.3 Strategy In Action
 
-The following are projects initiated or deployed between 2015 and 2017 that exemplify the Experiences and Engagement strategy outlined above:
+The following are projects initiated or deployed between 2015 and 2020 that exemplify the Experiences and Engagement strategy outlined above:
 
 * [Fully responsive warhol.org](http://www.warhol.org) — January 2015
 * Someday is Now: *The Art of Corita Kent* — January 2015
@@ -39,6 +39,9 @@ The following are projects initiated or deployed between 2015 and 2017 that exem
 * [collection.warhol.org launch](http://collection.warhol.org) — June 2016
 * [Participation in @52museums](http://www.mardixon.com/wordpress/2015/12/new-project-for-2016-52museums-instagram-twitter-52museums/) — July 2016
 * Soft launch of Out Loud, The Warhol’s inclusive audio guide — August 2016
+* [https://www.facebook.com/thewarholmuseum/](https://www.facebook.com/thewarholmuseum/)
+* [https://www.instagram.com/thewarholmuseum/?hl=en](https://www.instagram.com/thewarholmuseum/?hl=en)
+* [https://www.linkedin.com/company/the-andy-warhol-museum/](https://www.linkedin.com/company/the-andy-warhol-museum/)
 
 -----
 
