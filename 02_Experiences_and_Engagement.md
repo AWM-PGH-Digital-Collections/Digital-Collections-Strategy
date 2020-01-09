@@ -39,9 +39,9 @@ The following are projects initiated or deployed between 2015 and 2020 that exem
 * [collection.warhol.org launch](http://collection.warhol.org) — June 2016
 * [Participation in @52museums](http://www.mardixon.com/wordpress/2015/12/new-project-for-2016-52museums-instagram-twitter-52museums/) — July 2016
 * Soft launch of Out Loud, The Warhol’s inclusive audio guide — August 2016
-* [https://www.facebook.com/thewarholmuseum/](https://www.facebook.com/thewarholmuseum/)
-* [https://www.instagram.com/thewarholmuseum/?hl=en](https://www.instagram.com/thewarholmuseum/?hl=en)
-* [https://www.linkedin.com/company/the-andy-warhol-museum/](https://www.linkedin.com/company/the-andy-warhol-museum/)
+* [Facebook](https://www.facebook.com/thewarholmuseum/)
+* [Instagram](https://www.instagram.com/thewarholmuseum/?hl=en)
+* [LinkedIn](https://www.linkedin.com/company/the-andy-warhol-museum/)
 
 -----
 
