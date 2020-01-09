@@ -46,7 +46,8 @@ Sources: [NYPL Blog](https://www.nypl.org/blog/2011/04/04/what-digital-curator)
 
 The following are projects initiated or deployed in 2020 that exemplify the Organizational Transformation strategy outlined above:
 
-* Attending the IIIF 2020 Conference in Boston, MA
+* Attending the IIIF 2020 Conference in Boston, MA.
+* Ensuring that EVERY digital asset has the proper copyright and use information attached to it.
 
 
 -----
