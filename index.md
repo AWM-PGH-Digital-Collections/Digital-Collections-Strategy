@@ -1,6 +1,6 @@
 #More than a Museum
 
-## The Warhol: Digital Strategy 2015 - 2020
+## The Warhol: Digital Collections Strategy 2015 - 2020
 
 1. [Introduction](01_Introduction.md)
 	1. Vision Statement
