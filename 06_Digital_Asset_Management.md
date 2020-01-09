@@ -1,8 +1,17 @@
 # 6. Digital Asset Management
 
 
-### 6.1 The Power of a DAMS
+### 6.1 The Power of a DAMS (NetX and its API)
 
+Included in the NetX Developer Tool Kit module is a full Web Services API, so you can essentially remote-control the application from any external system.The API itself is built on Apache’s Axis Web Service framework, meaning that it is entirely standards-compliant and interoperates with Java and .NET. The Web Services API provides SOAP-RPC over HTTP access to NetX, and includes documentation, sample code, and Java-wrapper code.
+
+This provides for remote usage of NetX from any system that can communicate with standard Web Service protocols, such as SOAP and WSDL — allowing any such system to integrate directly with the repository. Most operations you can manually access through the Web User-Interface can be automated through the Web Services.
+
+The advantages a Web Services API brings to the NetX DAM are numerous. For example, external applications such as e-commerce sites, catalog workflow software, remote kiosks, or content management systems can “talk to the DAM” resulting in a seamless “push” of content such as images and data from the DAM to the external application upon request.
+
+Or in the cases where the DAM needs to be continually populated with new information from external sources, the Web Services API can set up to automatically “pull” files and data into the DAM from external sources such as a legacy collections management system in a museum.
+
+The Web Services API provides a standard WSDL interface for auto-discover, as well as a Java wrapper that allows the developer to avoid having to learn anything about Web Services protocols.The Java wrapper provides access to Web Services with the IPClient class; each method handles all the SOAP messaging and authentication for you.
 
 ### 6.2 User Access and the IIIF Viewer
 
@@ -33,7 +42,9 @@ Sources: [NYPL Blog](https://www.nypl.org/blog/2011/04/04/what-digital-curator)
 
 ### 6.4 Strategy In Action
 
-The following are projects initiated or deployed between 2015 and 2017 that exemplify the Organizational Transformation strategy outlined above:
+The following are projects initiated or deployed in 2020 that exemplify the Organizational Transformation strategy outlined above:
+
+* Attending the IIIF 2020 Conference in Boston, MA
 
 
 -----
