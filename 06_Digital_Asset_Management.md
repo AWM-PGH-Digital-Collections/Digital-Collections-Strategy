@@ -13,6 +13,8 @@ Or in the cases where the DAM needs to be continually populated with new informa
 
 The Web Services API provides a standard WSDL interface for auto-discover, as well as a Java wrapper that allows the developer to avoid having to learn anything about Web Services protocols.The Java wrapper provides access to Web Services with the IPClient class; each method handles all the SOAP messaging and authentication for you.
 
+[NetX](https://www.netx.net/museums/?hsCtaTracking=52c35b43-aea1-46c3-9f26-b2b24b06cbcb%7Cc64d596d-cd4d-45ff-b870-d72933ed6b7e)
+
 ### 6.2 User Access and the IIIF Viewer
 
 Access to image-based resources is fundamental to research, scholarship and the transmission of cultural knowledge. Digital images are a container for much of the information content in the Web-based delivery of images, books, newspapers, manuscripts, maps, scrolls, single sheet collections, and archival materials. Yet much of the Internet’s image-based resources are locked up in silos, with access restricted to bespoke, locally built applications.
